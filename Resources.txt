@@ -1,0 +1,25 @@
+4. Schema Definition : https://github.com/graphql-by-example/hello-world/commit/52cf9c8f02d7bd4866749cdb0ffdecb528d1f769
+5. Appolo Server: https://github.com/graphql-by-example/hello-world/commit/ee7a011d88d17ae197095a6e881f25b7433f1d18
+8. Client: https://github.com/graphql-by-example/hello-world/commit/10910b88cbeaaa92f871dd5d986c602a3637340e
+9. graphql repo: https://github.com/graphql-by-example
+10. Code First vs Schema First: https://github.com/graphql-by-example/hello-world/commit/8fc92afd770f8daff35838d7fdd8743ba5e99eaf
+16. Apollo Server with Express : https://github.com/graphql-by-example/job-board/commit/d7c8e25cfbdb4925be5e0a40f5695ac902884a82
+17. Custom Object Types: https://github.com/graphql-by-example/job-board/commit/59a92defe58fa25bc34de108e45cb66c40a603fc
+18. Arrays and Non-Nullability: https://github.com/graphql-by-example/job-board/commit/4eb93e328ad7c69d6fa1ea159f8ab39ffeb47231
+19. Database Access: https://github.com/graphql-by-example/job-board/commit/76bd60fb3663406024762fc3e223502988cc7ede
+20. Field Resolvers: https://github.com/graphql-by-example/job-board/commit/5705f8a3b8c33e77aa575db6d81f0ae33d3d27bd
+22. Documentation Comments: https://github.com/graphql-by-example/job-board/commit/00f6af403b788f34a6e9a98665b74d840578dbd4
+23. Object Associations: https://github.com/graphql-by-example/job-board/commit/981f4e1ce8c373a6c48907d2265402cf7131ee74
+25.GraphQL-Request: https://github.com/graphql-by-example/job-board/commit/60d8b22899f78bb4fefa42243b3c50ae8309dbdc
+26. Component State in React: https://github.com/graphql-by-example/job-board/commit/5b3a5f1d2d8c491efd20318f0e1b9aeb3b38f487
+27. Query Arguments: https://github.com/graphql-by-example/job-board/commit/3a3c8505bb7d354f5d7f7bc9559cd1bda26c0269
+28. Query Variables: https://github.com/graphql-by-example/job-board/commit/b2b8cb519bd5e662021abecbaeb0719127a8cf97
+29: Exercise: Company by ID: https://github.com/graphql-by-example/job-board/commit/4a3869f9e86660a8e8b1658838bff9b81927b8b8#diff-3c750e2f38123a2ed062dee3ecade84354a2c100742e76bd22e587f27ab3c6d7
+30. Bidirectional Associations: https://github.com/graphql-by-example/job-board/commit/74d7335e3a539c08c15cdc3caa6f35d273da34ee
+34. Custom Errors: https://github.com/graphql-by-example/job-board/commit/04efc866eddddb5c662bef6050cb10d41e9d4b52
+35. Request States: https://github.com/graphql-by-example/job-board/commit/816d2b0c15a1a9193d86f56a72a5a96f0e998ec7
+37. Mutations: https://github.com/graphql-by-example/job-board/commit/aeba04762e1ade017b81b08e876743cf0dad0d52
+38. Input Types: https://github.com/graphql-by-example/job-board/commit/1a22d56ec615b66f917194c392cdc0dc88cf179c
+40. Mutation Requests: https://github.com/graphql-by-example/job-board/commit/2364be358bb17864d300dac7bd9add1390f75f1a
+41. Exercise: Delete Job: https://github.com/graphql-by-example/job-board/commit/d008b858682f65f1b83ab2c49c227a71baee20d9
+42. Exercise: Update Job: https://github.com/graphql-by-example/job-board/commit/4849873fa2c20602a73b03abb33b38de93606f28
