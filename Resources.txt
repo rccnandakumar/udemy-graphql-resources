@@ -23,3 +23,8 @@
 40. Mutation Requests: https://github.com/graphql-by-example/job-board/commit/2364be358bb17864d300dac7bd9add1390f75f1a
 41. Exercise: Delete Job: https://github.com/graphql-by-example/job-board/commit/d008b858682f65f1b83ab2c49c227a71baee20d9
 42. Exercise: Update Job: https://github.com/graphql-by-example/job-board/commit/4849873fa2c20602a73b03abb33b38de93606f28
+45. Resolver Context: https://github.com/graphql-by-example/job-board/commit/f4c5477cfccb1fd15532f36fad4092a072d1078d
+46. User-Company Association: https://github.com/graphql-by-example/job-board/commit/84eeb78e3ea2ab69d7321153166dd6ebafd90ccf
+47. Client Authentication: https://github.com/graphql-by-example/job-board/commit/941cb4f12392b8727cfe31dd4774b701532aaaf9
+48. Secure Delete: https://github.com/graphql-by-example/job-board/commit/ac07a5027991979daa2aa95d7b62988caf85baf0
+49. Exercise: Secure Update: https://github.com/graphql-by-example/job-board/commit/0466fd8c6d3136cf8af0b4bfd9ae03ce24f30215
