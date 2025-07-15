@@ -28,3 +28,17 @@
 47. Client Authentication: https://github.com/graphql-by-example/job-board/commit/941cb4f12392b8727cfe31dd4774b701532aaaf9
 48. Secure Delete: https://github.com/graphql-by-example/job-board/commit/ac07a5027991979daa2aa95d7b62988caf85baf0
 49. Exercise: Secure Update: https://github.com/graphql-by-example/job-board/commit/0466fd8c6d3136cf8af0b4bfd9ae03ce24f30215
+53. Apollo Client Setup: https://github.com/graphql-by-example/job-board/commit/da26988206bac94770c7e6a41ee90c141911c148
+54. Query Method: https://github.com/graphql-by-example/job-board/commit/712e62792613020d1e3e1b372afae8a475fd45eb
+55. Mutate Method and Auth Link: https://github.com/graphql-by-example/job-board/commit/0cd472827d221385ecbd5c36820cc021a3bec71d
+56. Apollo Client Cache: https://github.com/graphql-by-example/job-board/commit/1bc5791ed127fa78fdc159f100c4c45e43f2799d
+57. Supported fetch policies: https://www.apollographql.com/docs/react/data/queries#supported-fetch-policies
+57. Supported fetch policies: https://github.com/graphql-by-example/job-board/commit/95e292e05235ede14cbd0753f70fc6ee82ec06a3
+58. Cache Manipulation: https://github.com/graphql-by-example/job-board/commit/681ab1f62ae15a9e9bc909c8c4619900d1b3b41c
+59. Fragments: https://github.com/graphql-by-example/job-board/commit/ab0a821305b6e5384a6ad04059b4e6818ff5d371
+61. useQuery Hook: https://github.com/graphql-by-example/job-board/commit/f90411c8446ffc2c4491d764a860ad5634b64456
+62. React Custom Hooks: https://github.com/graphql-by-example/job-board/commit/78f7ea42dd9715ea25f598640d526e9132048365
+63. Exercise: useJob and useJobs: https://github.com/graphql-by-example/job-board/commit/b84095d3b328e9561d9699fa557a44b393104532
+64. useMutation Hook: https://github.com/graphql-by-example/job-board/commit/1fff64c44a0593364c648e01883d65e172422856
+65. useMutation Result: https://github.com/graphql-by-example/job-board/commit/8109b361b4118187eb9457e06a0ab56c279d89be
+66. Exercise: useCreateJob: https://github.com/graphql-by-example/job-board/commit/a2514b37bd0283b27b5c21cf32cef6299eafce57
