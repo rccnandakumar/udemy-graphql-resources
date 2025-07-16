@@ -42,3 +42,6 @@
 64. useMutation Hook: https://github.com/graphql-by-example/job-board/commit/1fff64c44a0593364c648e01883d65e172422856
 65. useMutation Result: https://github.com/graphql-by-example/job-board/commit/8109b361b4118187eb9457e06a0ab56c279d89be
 66. Exercise: useCreateJob: https://github.com/graphql-by-example/job-board/commit/a2514b37bd0283b27b5c21cf32cef6299eafce57
+68. N+1 Query Problem: https://github.com/graphql-by-example/job-board/commit/aa6379d644fa37216a193310234984b94f73fcfa
+69. Batching with DataLoader: https://github.com/graphql-by-example/job-board/commit/5462e736c233934e2aae5be68be09a5e3156ca5c
+70. Per-Request Cache: https://github.com/graphql-by-example/job-board/commit/b6c71244cd5b434e97919bc55bc8e237c6d0f937
