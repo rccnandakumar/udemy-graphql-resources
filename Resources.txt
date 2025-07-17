@@ -45,3 +45,9 @@
 68. N+1 Query Problem: https://github.com/graphql-by-example/job-board/commit/aa6379d644fa37216a193310234984b94f73fcfa
 69. Batching with DataLoader: https://github.com/graphql-by-example/job-board/commit/5462e736c233934e2aae5be68be09a5e3156ca5c
 70. Per-Request Cache: https://github.com/graphql-by-example/job-board/commit/b6c71244cd5b434e97919bc55bc8e237c6d0f937
+73. Ordering: https://github.com/graphql-by-example/job-board/commit/c26890e04bc54f4f48f9e5e52dd0a2ca5784acbe
+74. Limit Clause: https://github.com/graphql-by-example/job-board/commit/433ff306dc666812a9378ac5bf0b4e4986e5b7cd
+75. Offset Clause: https://github.com/graphql-by-example/job-board/commit/f4b4d8f45696ae356eba63673f0fc8a137410366
+76. Basic Pagination UI: https://github.com/graphql-by-example/job-board/commit/fd6d83d3b60c052b13368bab7199a505247cae98
+77. Total Count: https://github.com/graphql-by-example/job-board/commit/6158e8c235d81d75386d24a4f24a46fc12a489d6
+78. Full Pagination UI: https://github.com/graphql-by-example/job-board/commit/7d503d181536b9ff22dd85580cdb33c0c1519859
