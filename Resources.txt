@@ -10,7 +10,7 @@
 20. Field Resolvers: https://github.com/graphql-by-example/job-board/commit/5705f8a3b8c33e77aa575db6d81f0ae33d3d27bd
 22. Documentation Comments: https://github.com/graphql-by-example/job-board/commit/00f6af403b788f34a6e9a98665b74d840578dbd4
 23. Object Associations: https://github.com/graphql-by-example/job-board/commit/981f4e1ce8c373a6c48907d2265402cf7131ee74
-25.GraphQL-Request: https://github.com/graphql-by-example/job-board/commit/60d8b22899f78bb4fefa42243b3c50ae8309dbdc
+25. GraphQL-Request: https://github.com/graphql-by-example/job-board/commit/60d8b22899f78bb4fefa42243b3c50ae8309dbdc
 26. Component State in React: https://github.com/graphql-by-example/job-board/commit/5b3a5f1d2d8c491efd20318f0e1b9aeb3b38f487
 27. Query Arguments: https://github.com/graphql-by-example/job-board/commit/3a3c8505bb7d354f5d7f7bc9559cd1bda26c0269
 28. Query Variables: https://github.com/graphql-by-example/job-board/commit/b2b8cb519bd5e662021abecbaeb0719127a8cf97
