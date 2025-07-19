@@ -51,3 +51,14 @@
 76. Basic Pagination UI: https://github.com/graphql-by-example/job-board/commit/fd6d83d3b60c052b13368bab7199a505247cae98
 77. Total Count: https://github.com/graphql-by-example/job-board/commit/6158e8c235d81d75386d24a4f24a46fc12a489d6
 78. Full Pagination UI: https://github.com/graphql-by-example/job-board/commit/7d503d181536b9ff22dd85580cdb33c0c1519859
+
+Chat
+
+82. Cache updateQuery: https://github.com/graphql-by-example/chat/commit/8051a77bc8719604e5239a402f651b88d41116f5
+83. Subscription Definition: https://github.com/graphql-by-example/chat/commit/12a4ccc99441895b60148371d76b36915b8c2e82
+85. GraphQL-WS Server: https://github.com/graphql-by-example/chat/commit/af3d90d5f684a6bc7d1206f504462aa967684775
+86. Subscription Resolver: https://github.com/graphql-by-example/chat/commit/eef18a780cd5747ba0806c06703b0151e78b4764
+87. GraphQL-WS Client: https://github.com/graphql-by-example/chat/commit/1756263f8c66d2f2c57687421e2668792f2d6349
+88. useSubscription Hook: https://github.com/graphql-by-example/chat/commit/a75fb4c776d86887d579f30a6deb0a0425d6ea9f
+90. Connection Params: https://github.com/graphql-by-example/chat/commit/0d783cb42de66100b1b8a62972f777ddaeda39e1
+91. WebSocket Server Auth: https://github.com/graphql-by-example/chat/commit/b5f64c60381cde4bca69ba8e155dfad5348f6583
